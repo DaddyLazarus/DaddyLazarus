@@ -1,6 +1,6 @@
 ### Socials
 
-- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width=16 height=16 align="center" /> Discord: `Lazarus#8907`</a>
+- <a><img src="https://i.imgur.com/Jz1AFfB.png" width=16 height=16 align="center"/> Discord: ``lazarus#0001``</a>
 
 
 
