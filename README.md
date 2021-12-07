@@ -1,4 +1,4 @@
-**DaddyLazarus**
+**Lazarus**
 ===
 
 - <a><img src="https://i.imgur.com/Jz1AFfB.png" width=16 height=16 align="center"/> Discord: ``lazarus#0001``</a>
